@@ -1,1 +1,3 @@
-This is a new file.
+add:	workspace -> index
+commit:	index -> local repository
+push:	local repository -> remote repository
